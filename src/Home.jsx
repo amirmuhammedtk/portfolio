@@ -21,9 +21,8 @@ function Home() {
 Hi, I am a Mern Full Stack Web Developer and Web Designer.
 I love working on new and exciting technologies emerging nowadays. I have a keen interest in Web Development and I am always looking for new opportunities to learn and grow. 
 </h5>
-<button className='butn'>Skills</button>
-<button className='butn'>Contact</button>
-<a className='lin'href='#'>in</a>
+<button className='butn'><a href='https://github.com/amirmuhammedtk' className='butn'>GitHub</a></button>
+<a className='lin'href='https://www.linkedin.com/in/amir-muhammed-6116b725a'>in</a>
 
 
         </div>

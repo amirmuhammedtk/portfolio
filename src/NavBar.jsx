@@ -30,6 +30,8 @@ function Navb() {
               <Nav.Link as={Link} to="/Qualification" style={{ color: 'white' }}>Qualification</Nav.Link>
               <Nav.Link as={Link} to="/Skills" style={{ color: 'white' }}>Skills</Nav.Link>
               <Nav.Link as={Link} to="/Contact" style={{ color: 'white' }}>Contact</Nav.Link>
+              <Nav.Link as={Link} to="/Project" style={{ color: 'white' }}>Project</Nav.Link>
+
           </Nav>
         
         </Navbar.Collapse>

@@ -7,6 +7,7 @@ import Navb from './NavBar';
 import Qualification from './Qualification';
 import Skills from './Skills';
 import Navigat from './Navigat';
+import Project from './Project';
 
 function App() {
   return (
@@ -28,6 +29,9 @@ function App() {
       </div>
       <div>
         <Contact/>
+      </div>
+      <div>
+        <Project/>
       </div>
       <Outlet/>
     </div>

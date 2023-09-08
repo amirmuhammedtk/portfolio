@@ -9,6 +9,7 @@ import Skills from './Skills';
 import Contact from './Contact';
 import Navb from './NavBar';
 import App from './App';
+import Project from './Project';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -21,6 +22,7 @@ root.render(
           <Route path='/Qualification' element={<Qualification/>}></Route>
           <Route path='/Skills' element={<Skills/>}></Route>
           <Route path='/Contact' element={<Contact/>}></Route>
+          <Route path='/Project' element={<Project/>}></Route>
         </Route>
       </Routes>
     </BrowserRouter>
